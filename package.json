@@ -8,8 +8,10 @@
   "dependencies": {
     "acorn": "^6.1.1",
     "braces": "^3.0.2",
+    "gulp": "^4.0.2",
     "lodash": "^4.17.11",
-    "whatwg-fetch": "^3.0.0"
+    "whatwg-fetch": "^3.0.0",
+    "yo": "^2.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
